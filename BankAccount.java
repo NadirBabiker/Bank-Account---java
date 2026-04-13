@@ -1,7 +1,3 @@
-
-// CSC 205 Class # 14182
-//Program 2 
-// Author : Nadir Babiker - NAD2153321
 // Program 2  BankAccount class
 /* All Bank Accounts
 1. All accounts have balance, credit and debit amounts, and fees stored and passed as a number of
