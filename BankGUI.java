@@ -1,8 +1,8 @@
 
 
-// CSC 205 Class # 14182
-// GUI
-// Author : Nadir Babiker - NAD2153321
+
+// GUI 
+
 
 
 import javax.swing.*;
