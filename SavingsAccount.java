@@ -1,7 +1,3 @@
-
-// CSC 205 Class # 14182
-// Program 2 
-// Author : Nadir Babiker - NAD2153321
 // SavingsAccount class  
 /* 
  * *****Savings accounts****
